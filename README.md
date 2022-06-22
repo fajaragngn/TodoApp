@@ -1,6 +1,4 @@
-![Todo App](./public/demo.png)
-
-# Todo App.
+# Todo App
 
 A complete todo application with all features.
 
@@ -15,7 +13,8 @@ A complete todo application with all features.
 - [Framer Motion](https://framer.com/motion/)
 - [React icons](https://react-icons.netlify.com/)
 - [React Hot Toast](https://react-hot-toast.com/)
-- More...
+
+![Todo App](./public/demo.png)
 
 ## Getting Started
 
