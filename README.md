@@ -4,7 +4,7 @@
 
 A complete todo application with all features.
 
-**live demo: [https://fajaragngn.github.io/todo-app//](https://fajaragngn.github.io/todo-app/)**
+**live demo: [https://fajaragngn.github.io/todo-app/](https://fajaragngn.github.io/todo-app/)**
 
 ---
 
