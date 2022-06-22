@@ -1,4 +1,4 @@
-![Todo App](./)
+![Todo App](./public/demo.png)
 
 # Todo App.
 
